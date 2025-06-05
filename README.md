@@ -5,5 +5,15 @@ to alleviate pain and tightness. A mobile exercise app is one of the most conven
 ways users can use to stay fit and healthy.
 
 ## Getting Started
-
-https://github.com/muthuramanm/aletha_flutter/blob/dc736b953f0a74ea42d0223baddf02df55acfaf4/screenimages/app1_mainapp_screen.png
+# 1. App Main Screen - list all exercises from api.
+![image](screenimages/app1_mainapp_screen.png)
+# 2. Detail Screen - for exercises with details and descriptions fetched from api.
+![image](screenimages/app1_screen2_detailscreen.png)
+# 3. Detail Screen - for exercises with timer and alert.
+![image](screenimages/app1_screen3_timerwithnotification.png)
+# 4. Progress Tab Screen - for tracking exercises with stats/reports
+![image](screenimages/app1_screen4_progresstab_with_chart.png)
+# 5. Scheduler Screen - for setup exercise goals and completions
+![image](screenimages/app1_screen5_scheduler.png)
+# 6. Profile Screen - for user profile login and signout
+![image](screenimages/app1_screen6_profile.png)
