@@ -1,6 +1,8 @@
 # aletha_health
 
-A new Flutter project.
+At Aletha Health our mission is to improve the physical wellbeing of humans by developing solutions
+to alleviate pain and tightness. A mobile exercise app is one of the most convenient and accessible
+ways users can use to stay fit and healthy.
 
 ## Getting Started
 
